@@ -209,7 +209,6 @@ nav button{
      /* margin-left: 5px; */
      background-color:transparent;
      color: white;
-     text-align: center;
      margin-right: 10px;
       border: 2px solid;
     border-color: #636363; 
@@ -241,7 +240,6 @@ nav button{
     cursor: pointer;
     padding: 15px  30px;
     border-radius: 6px;
-     text-align: center;
      
 }
 .ip-btn:hover{
