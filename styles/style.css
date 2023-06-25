@@ -443,7 +443,12 @@ input[type="radio"]{
         font-size: 30px;
     }
      .em{
-        padding: 30px;
+         
+         padding-right: 20px;
+/*          padding: 15px  30px; */
+           margin-right: 1px;
+
+         
     }
     .ip-btn{
         font-size: 12px;
