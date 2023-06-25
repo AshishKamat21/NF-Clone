@@ -423,23 +423,23 @@ input[type="radio"]{
         font-size: 30px;
     }
     
-/*     .faq .email-signup{
+    .faq .email-signup{
      display: block;
       
         margin-right: 0;
         margin-left: 0;
-    } */
+    }
     
     .faq .ip-btn{
        
-           margin-right: 15px;
-        margin-left: 0;
+            padding:10px 15px ;
+         font-size:12px;
     }
     
  .faq .em{
           
+          padding: 15px ; 
            margin-right: 15px;
-        margin-left: 0;
     } 
     
  
