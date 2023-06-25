@@ -433,14 +433,13 @@ input[type="radio"]{
     .faq .ip-btn{
        display: block;
      
-        margin-right: 0;
+           margin-right: 15px;
         margin-left: 0;
     }
     
  .faq .em{
             display: block;
-       
-        margin-right: 0;
+           margin-right: 15px;
         margin-left: 0;
     } 
     
