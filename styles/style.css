@@ -460,10 +460,13 @@ input[type="radio"]{
         font-size: 12px;
 
         padding: 15px ;
+
+
+        display: block;
+  text-align: center;
+  width: 100%;
     }
-    .ip-btn text{
-    text-align: center;
-}
+    
 
 
     
