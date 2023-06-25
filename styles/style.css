@@ -361,10 +361,10 @@ input[type="radio"]{
 
 
 .faq .email-signup{
-     max-width: 600px;
+/*      max-width: 600px;
     margin: 20px auto 60px;
      background: #303030; 
-
+ */
 
         background: #fff;
     border-radius: 4px;
