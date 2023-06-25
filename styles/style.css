@@ -442,9 +442,12 @@ input[type="radio"]{
     .header-content h1{
         font-size: 30px;
     }
+     .em{
+        padding: 10px 20px;
+    }
     .ip-btn{
         font-size: 12px;
-        padding: 11px 12px;
+        padding: 8px 10px;
     }
     .text-col,.img-col{
         flex-basis: 100%;
