@@ -365,7 +365,7 @@ input[type="radio"]{
     background-color:transparent;
 }
 
-.em{
+.faq .em{
     flex: 1;
      border: 0;
      outline: 0;
@@ -382,7 +382,7 @@ input[type="radio"]{
 }
 
 
-.ip-btn{
+.faq .ip-btn{
     font-weight: 600;
     font-size: 50px;
     font-weight: bolder;
