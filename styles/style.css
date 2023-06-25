@@ -378,12 +378,12 @@ input[type="radio"]{
 }
 
 
-.faq .em{
+/* .faq .em{
     flex: 1;
      border: 0;
      outline: 0;
      /* margin-left: 5px; */
-     background-color:transparent;
+/*      background-color:transparent;
      color: white;
      margin-right: 10px;
       border: 2px solid;
@@ -392,7 +392,7 @@ input[type="radio"]{
     border-radius: 6px;
     font-weight: 600;
     
-}
+} */ 
 
 /* .email-signup button{
      background: #db0001;
@@ -404,7 +404,7 @@ input[type="radio"]{
     padding: 15px 30px;
       
 } */
-.faq .ip-btn{
+/* .faq .ip-btn{
     font-weight: 600;
     font-size: 50px;
     font-weight: bolder;
@@ -421,7 +421,7 @@ input[type="radio"]{
 .faq .ip-btn:hover{
     background-color: #be1f1f;
    
-}
+} */
 
 /* ---------------FOOTER---------------- */
 
