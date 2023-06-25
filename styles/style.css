@@ -442,11 +442,14 @@ input[type="radio"]{
     .header-content h1{
         font-size: 30px;
     }
+
+
+    
      .em{
          
-         padding-right: 25px;
+        
          padding: 15px  5px; 
-           margin-right: 5px;
+           margin-right: 15px;
 
          
     }
@@ -455,6 +458,9 @@ input[type="radio"]{
         font-size: 12px;
         padding-right:20px;
     }
+
+
+    
     .text-col,.img-col{
         flex-basis: 100%;
     }
