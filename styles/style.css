@@ -448,18 +448,12 @@ input[type="radio"]{
      .em{
            
         
-         padding: 15px  ; 
+         padding: 15px ; 
            margin-right: 15px;
-
          
     }
     .ip-btn{
-    
-       
-
-         padding: 15px ;
-
-
+         padding:5px ;
         font-size:12vw;
     }
     
