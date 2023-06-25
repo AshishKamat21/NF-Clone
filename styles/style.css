@@ -201,7 +201,8 @@ nav button{
     align-items: center;
     margin-top: 8px;
     overflow: hidden;
-      width: 100%;
+      max-width: 600px;
+    
     background-color:transparent;
 }
 
