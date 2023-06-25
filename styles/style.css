@@ -344,7 +344,12 @@ input[type="radio"]{
    transform: rotate(135deg);
 }
 
+.faq .email-signup{
+    max-width: 600px;
+    margin: 20px auto 60px;
+    /* background: #303030; */
 
+}
 
 .faq small{
     font-size: 13px;
@@ -420,12 +425,7 @@ input[type="radio"]{
         font-size: 30px;
     }
 
-.faq .email-signup{
-    max-width: 600px;
-    margin: 20px auto 60px;
-    /* background: #303030; */
 
-}
     
  
  .em{
