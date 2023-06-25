@@ -527,7 +527,12 @@ input[type="radio"]{
         font-size:12px;
     }
     
+.faq .email-signup{
+    max-width: 600px;
+    margin: 20px auto 60px;
+    /* background: #303030; */
 
+}
 
     
     .text-col,.img-col{
