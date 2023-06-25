@@ -446,13 +446,13 @@ input[type="radio"]{
          
          padding-right: 20px;
          padding: 15px  5px; 
-           margin-right: 1px;
+           margin-right: 5px;
 
          
     }
     .ip-btn{
         font-size: 12px;
-        padding-right:22px;
+        padding-right:20px;
     }
     .text-col,.img-col{
         flex-basis: 100%;
