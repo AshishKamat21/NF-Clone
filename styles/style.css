@@ -465,6 +465,9 @@ input[type="radio"]{
     .faq h2{
         font-size: 20px;
     }
+    .accordion{
+         max-width: 950px;
+    }
     .accordion .content{
         font-size: 14px;
     }
