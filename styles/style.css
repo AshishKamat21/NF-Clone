@@ -305,9 +305,9 @@ nav button{
 }
 
 .accordion{
-   margin: 60px auto;
+   margin: 50px auto;
    width: 100%;
-   max-width: 750px;
+   max-width: 850px;
 
 }
 .accordion li{
@@ -422,7 +422,7 @@ input[type="radio"]{
 
 /* -----------------CSS  MEDIA QUERY-------------------- */
 
-@media only screen  and (max-width:480px) {
+@media only screen  and (max-width:600px) {
     .logo{
         width: 100px;
     }
