@@ -193,15 +193,7 @@ nav button{
     background-color:transparent;
 }
 
-/* .email-signup input{
-     
-    flex: 1;
-     border: 0;
-     outline: 0;
-     margin-left: 20px;
-     background-color:transparent;
-     color: #fff;
-} */
+
 .em{
     flex: 1;
      border: 0;
@@ -218,16 +210,7 @@ nav button{
     
 }
 
-/* .email-signup button{
-     background: #db0001;
-     border: 0;
-     outline:0 ;
-     color: #fff;
-     font-size: 16px;
-     cursor: pointer;
-    padding: 15px 30px;
-      
-} */
+
 .ip-btn{
     font-weight: 600;
     font-size: 50px;
@@ -370,8 +353,6 @@ input[type="radio"]{
 
 
 
-
-
  .faq .email-signup{
    background: #fff;
     border-radius: 4px;
@@ -384,13 +365,12 @@ input[type="radio"]{
     background-color:transparent;
 }
 
-
-/* .faq .em{
+.em{
     flex: 1;
      border: 0;
      outline: 0;
      /* margin-left: 5px; */
-/*      background-color:transparent;
+     background-color:transparent;
      color: white;
      margin-right: 10px;
       border: 2px solid;
@@ -399,19 +379,10 @@ input[type="radio"]{
     border-radius: 6px;
     font-weight: 600;
     
-} */ 
+}
 
-/* .email-signup button{
-     background: #db0001;
-     border: 0;
-     outline:0 ;
-     color: #fff;
-     font-size: 16px;
-     cursor: pointer;
-    padding: 15px 30px;
-      
-} */
-/* .faq .ip-btn{
+
+.ip-btn{
     font-weight: 600;
     font-size: 50px;
     font-weight: bolder;
@@ -425,10 +396,8 @@ input[type="radio"]{
     border-radius: 6px;
      
 }
-.faq .ip-btn:hover{
-    background-color: #be1f1f;
-   
-} */
+
+
 
 /* ---------------FOOTER---------------- */
 
