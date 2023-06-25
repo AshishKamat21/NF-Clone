@@ -422,12 +422,18 @@ input[type="radio"]{
     .header-content h1{
         font-size: 30px;
     }
+    .faq .email-signup{
+
+          flex-basis: 100%;
+    }
     .faq .ip-btn{
         padding:10px 45px ;
          font-size:12px;
           flex-basis: 100%;
     }
-
+ .faq .em{
+           flex-basis: 100%;
+    } 
     
  
  .em{
