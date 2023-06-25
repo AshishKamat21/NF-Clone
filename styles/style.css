@@ -436,13 +436,13 @@ input[type="radio"]{
     }
 
     
-/*  .faq .email-signup{
-    max-width: 400px; 
-    margin: 20px auto 60px;
+  .faq .email-signup{
+    max-width: 900px; 
+    margin: 5px auto 20px;
      background: #303030;
 
 } 
- */
+ 
     
     .text-col,.img-col{
         flex-basis: 100%;
