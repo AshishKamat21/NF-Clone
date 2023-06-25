@@ -424,15 +424,13 @@ input[type="radio"]{
     }
     .faq .email-signup{
 
-          flex-basis: 100%;
+       width:100%;
     }
     .faq .ip-btn{
-        padding:10px 45px ;
-         font-size:12px;
-          flex-basis: 100%;
+       width:100%;
     }
  .faq .em{
-           flex-basis: 100%;
+            width:100%;
     } 
     
  
