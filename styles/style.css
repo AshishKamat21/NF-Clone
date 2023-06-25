@@ -189,6 +189,7 @@ nav button{
     display:flex;
     align-items: center;
     margin-top: 30px;
+    padding:0 5px;
     overflow: hidden;
     background-color:transparent;
 }
