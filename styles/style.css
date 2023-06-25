@@ -445,16 +445,16 @@ input[type="radio"]{
 
 
     
-     .em{
+/*      .em{
            
         
          padding: 15px ; 
            margin-right: 15px;
          
-    }
+    } */
     .ip-btn{
-         padding:5px ;
-        font-size:12vw;
+         padding:10px 15px ;
+        font-size:12px;
     }
     
 
