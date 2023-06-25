@@ -422,25 +422,23 @@ input[type="radio"]{
     }
 
 .faq{
-padding:40px;
+
+    padding: 20px ;
 }
     
  .em{
-           
-        
-         padding: 15px ; 
+          padding: 15px ; 
            margin-right: 15px;
-         
     } 
-    .ip-btn{
+    
+.ip-btn{
          padding:10px 15px ;
-        font-size:12px;
+         font-size:12px;
     }
-
     
   .faq .email-signup{
-    max-width: 900px; 
-    margin: 5px auto 20px;
+    padding: 30px ;
+    margin: 5px auto 50px;
      background: #303030;
 
 } 
