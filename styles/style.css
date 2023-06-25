@@ -469,7 +469,7 @@ input[type="radio"]{
         font-size: 14px;
     }
     .accordion li label{
-        padding: 10px;
+        padding: 5px;
         font-size: 14px;
     }
     label::after{
