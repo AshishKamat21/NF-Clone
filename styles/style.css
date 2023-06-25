@@ -496,13 +496,13 @@ input[type="radio"]{
         font-size:12px;
     }
     
- .faq .email-signup{
+/*  .faq .email-signup{
     max-width: 400px; 
     margin: 20px auto 60px;
      background: #303030;
 
 } 
-
+ */
     
     .text-col,.img-col{
         flex-basis: 100%;
