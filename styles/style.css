@@ -365,24 +365,57 @@ input[type="radio"]{
     margin: 20px auto 60px;
      background: #303030; 
 
-/* 
-        background: #fff; */
+
+        background: #fff;
     border-radius: 4px;
-    /* border: 2px solid;
-    border-color: #303030; */
+    border: 2px solid;
+    border-color: #303030;
     display:flex;
     align-items: center;
 /*     margin-top: 30px; */
     overflow: hidden;
-/*     background-color:transparent; */
+    background-color:transparent;
 
 }
 .faq small{
     font-size: 13px;
 }
 .faq .em{
-    background: #303030;
+/*     background: #303030;
+    color: #fff; */
+
+
+
+     flex: 1;
+     border: 0;
+     outline: 0;
+     /* margin-left: 5px; */
+     background-color:transparent;
+     color: white;
+     margin-right: 10px;
+      border: 2px solid;
+    border-color: #636363; 
+    padding: 15px  30px;
+    border-radius: 6px;
+    font-weight: 600;
+}
+.faq .ip-btn{
+    font-weight: 600;
+    font-size: 50px;
+    font-weight: bolder;
+    background: #db0001;
+    border: 0;
+    outline:0 ;
     color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 15px  30px;
+    border-radius: 6px;
+     
+}
+.faq .ip-btn:hover{
+    background-color: #be1f1f;
+   
 }
 
 /* ---------------FOOTER---------------- */
