@@ -402,7 +402,7 @@ input[type="radio"]{
 
 /* -----------------CSS  MEDIA QUERY-------------------- */
 
-@media only screen  and (max-width:350px) {
+@media only screen  and (max-width:600px) {
     .logo{
         width: 100px;
     }
