@@ -342,12 +342,12 @@ input[type="radio"]{
    transform: rotate(135deg);
 }
 
-.faq .email-signup{
+/* .faq .email-signup{
     max-width: 900px;
     margin: 20px auto 20px;
-    /* background: #303030; */
+     background: #303030; 
 
-}
+} */
 .faq small{
     font-size: 13px;
 }
