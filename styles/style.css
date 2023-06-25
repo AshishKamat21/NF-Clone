@@ -422,7 +422,10 @@ input[type="radio"]{
     .header-content h1{
         font-size: 30px;
     }
-
+    .faq .ip-btn{
+        padding:10px 25px ;
+         font-size:12px;
+    }
 
     
  
