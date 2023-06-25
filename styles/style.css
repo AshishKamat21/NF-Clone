@@ -432,13 +432,6 @@ input[type="radio"]{
          font-size:12px;
     }
     
-  .faq .email-signup{
-    padding: 30px ;
-    margin: 5px auto 50px;
-     background: #303030;
-
-} 
- 
     
     .text-col,.img-col{
         flex-basis: 100%;
