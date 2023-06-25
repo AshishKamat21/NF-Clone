@@ -189,7 +189,6 @@ nav button{
     display:flex;
     align-items: center;
     margin-top: 30px;
-    padding:0 5px;
     overflow: hidden;
     background-color:transparent;
 }
@@ -446,13 +445,13 @@ input[type="radio"]{
 
 
     
-/*      .em{
+ .em{
            
         
          padding: 15px ; 
            margin-right: 15px;
          
-    } */
+    } 
     .ip-btn{
          padding:10px 15px ;
         font-size:12px;
