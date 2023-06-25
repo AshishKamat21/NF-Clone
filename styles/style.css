@@ -425,7 +425,7 @@ input[type="radio"]{
     .faq .ip-btn{
         padding:10px 45px ;
          font-size:12px;
-/*           flex-basis: 100%; */
+          flex-basis: 100%;
     }
 
     
