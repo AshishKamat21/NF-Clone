@@ -456,15 +456,17 @@ input[type="radio"]{
          
     }
     .ip-btn{
-        text-align: center;
+/*         text-align: center;
         font-size: 12px;
 
 /*         padding: 15px ; */
 
 
-        display: block;
+/*         display: block;
   text-align: center;
-  width: 100%;
+  width: 100%; */ 
+
+        font-size:12vw;
     }
     
 
