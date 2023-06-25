@@ -448,7 +448,7 @@ input[type="radio"]{
      .em{
          
         
-         padding: 15px  px; 
+         padding: 15px  ; 
            margin-right: 15px;
 
          
@@ -456,7 +456,7 @@ input[type="radio"]{
     .ip-btn{
         text-align: center;
         font-size: 12px;
-        padding-right:16px;
+        padding-right:25px;
     }
 
 
