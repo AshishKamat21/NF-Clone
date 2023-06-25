@@ -373,26 +373,11 @@ input[type="radio"]{
 
 
  .faq .email-signup{
-    background: #fff;
-    border-radius: 4px;
-    /* border: 2px solid;
-    border-color: #303030; */
-    display:flex;
-    align-items: center;
-    margin-top: 30px;
-    overflow: hidden;
-    background-color:transparent;
+   max-width: 600px;
+    margin: 20px auto 60px;
 }
 
-/* .email-signup input{
-     
-    flex: 1;
-     border: 0;
-     outline: 0;
-     margin-left: 20px;
-     background-color:transparent;
-     color: #fff;
-} */
+
 .faq .em{
     flex: 1;
      border: 0;
