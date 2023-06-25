@@ -458,9 +458,12 @@ input[type="radio"]{
     .ip-btn{
         text-align: center;
         font-size: 12px;
-/*         padding-right:25px; */
+
         padding: 15px ;
     }
+    .ip-btn text{
+    text-align: center;
+}
 
 
     
