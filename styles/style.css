@@ -423,7 +423,9 @@ input[type="radio"]{
         font-size: 30px;
     }
     
-   
+   .faq{
+           flex-basis: 100%;}
+    
     
     .faq .ip-btn{
        display:block;
