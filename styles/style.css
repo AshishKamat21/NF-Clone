@@ -361,9 +361,20 @@ input[type="radio"]{
 
 
 .faq .email-signup{
-    max-width: 600px;
+/*     max-width: 600px;
     margin: 20px auto 60px;
-    /* background: #303030; */
+    /* background: #303030; */ 
+
+
+        background: #fff;
+    border-radius: 4px;
+    /* border: 2px solid;
+    border-color: #303030; */
+    display:flex;
+    align-items: center;
+    margin-top: 30px;
+    overflow: hidden;
+    background-color:transparent;
 
 }
 .faq small{
