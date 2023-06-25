@@ -346,11 +346,9 @@ input[type="radio"]{
 
 .faq .email-signup{
     max-width: 600px;
-    margin: 20px auto 60px;
+    margin-right:50px;
     /* background: #303030; */
-
 }
-
 .faq small{
     font-size: 13px;
 }
