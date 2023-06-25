@@ -454,7 +454,7 @@ input[type="radio"]{
          
     }
     .ip-btn{
-            display: inline;
+        text-align: center;
         font-size: 12px;
         padding-right:16px;
     }
